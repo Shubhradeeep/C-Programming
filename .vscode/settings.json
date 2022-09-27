@@ -1,0 +1,11 @@
+{
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "valarray": "c",
+        "12.1.C": "cpp",
+        "12.2.C": "cpp"
+    }
+}

@@ -3,8 +3,10 @@
 int main()
 {
     int n1, n2, temp, d, sum,count, i;
-    printf("Enter the lower limit and upper limit: ");
-    scanf("%d %d", &n1, &n2);
+    printf("Enter the lower limit : ");
+    scanf("%d", &n1);
+    printf("Enter the upper limit : ");
+    scanf("%d", &n2);
     for (i = n1; i <= n2; i++)
     {
         temp = i;
